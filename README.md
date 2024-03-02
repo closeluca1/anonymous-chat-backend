@@ -17,6 +17,6 @@
 }
 ```
 
-## Post
+## Write
 
 ```Em desenvolvimento.. .```
